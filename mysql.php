@@ -9,10 +9,10 @@ if($_SERVER['SERVER_ADDR'] == '127.0.0.1')
 }
 else
 {
-	$db_login='v_93999_yoga';
-	$db_pass='IqxfHY26zqN0vK6d';
+	$db_login='p-7456_yoga';
+	$db_pass='L0g9j%0lwgHa04%9';
 	$db_host='localhost';
-	$db_name='v_93999_yoga';
+	$db_name='p-7456_yoga';
 	
 }
 
